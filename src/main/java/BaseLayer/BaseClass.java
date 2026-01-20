@@ -14,4 +14,7 @@ public class BaseClass {
 	public static void display() {
 		System.out.println("Framework is Displayed for Gitbash");
 	}
+	public static void close() {
+		System.out.println("Framework is closed for Gitbash");
+	}
 }
