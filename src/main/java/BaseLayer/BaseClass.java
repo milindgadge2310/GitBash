@@ -11,4 +11,7 @@ public class BaseClass {
 		System.out.println("Framework is Updated for Gitbash");
 	}
 
+	public static void display() {
+		System.out.println("Framework is Displayed for Gitbash");
+	}
 }
